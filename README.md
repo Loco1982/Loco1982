@@ -1,6 +1,6 @@
 Hi, I'm Martín 👋
 
-Project Manager with 4+ years leading software development teams in healthcare, sports tech, and Web3.
+Project Manager with 4 years leading software development teams in healthcare, sports tech, and Web3.
 I'm not a developer by trade, but I stay close to the code — reviewing PRs, contributing to documentation, and making sure I understand what my teams build. Currently studying Computer Science at FIUBA to deepen that technical foundation.
 
 **What I do:**
